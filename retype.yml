@@ -1,0 +1,20 @@
+input: .
+output: .retype
+url: https://itsmoe.cloud/
+favicon: imgs/3logo.png
+branding:
+  title: Egypt Coders
+  label: Tutorial
+  colors:
+    label:
+      background: "#065535"
+      text: "#ffffff"
+
+links:
+- text: Discord
+  link: https://discord.gg/alx-egypt-1077145836795990066
+- text: WhatsApp
+  link: https://chat.whatsapp.com/IOAhkQGI2DvLgVsnS3jRTP
+
+footer:
+  copyright: "All rights reserved Egypt-Coders.com "
