@@ -6,7 +6,7 @@ order: 10000
 
 Discord is a popular communication platform that allows individuals and communities to connect and interact online. With its user-friendly interface and a wide range of features, Discord has become a go-to platform for communication, gaming, and socializing.
 
-### Main Features 🔥
+### Main Features test commit push 🔥
 
 Discord offers a robust set of features that make it an attractive communication platform for different types of users. Some of the main features include:
 
